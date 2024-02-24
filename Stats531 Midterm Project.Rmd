@@ -566,6 +566,14 @@ There are certain directions to improve in the context of this study. In this st
 
 We drew upon methodologies from Group Project 04 during the Winter 2022 term, which also focused on the stock market. Inspired by this, we adopted a similar approach by dividing our data into two parts and analyzing them separately. We provided a detailed introduction to background knowledge, along with a discussion of the drawbacks and limitations of our analysis. Additionally, we conducted thorough exploratory data analysis, including seasonal and trend decomposition, to frame our research questions. To assess the stationarity of our raw data, we utilized the Augmented Dickey-Fuller (ADF) test. Sensitivity tests were also conducted during the selection of ARMA models. Furthermore, we scrutinized the residuals of the ARMA model and verified their normality to ensure they met the assumptions of the ARMA model."
 
+# Contribution
+
+Lingqi Huang: performed basic exploratory data analysis, conducted ARMA model selection, structured ARMA model selection, structure the basic report, and offered some mathematical background knowledge to support the methodology.
+
+Heyuan Liu: brainstorm, write, refine and format the report, provide several visualizations, and build several models.
+
+Zhenning Zhang: project management, wrote the conclusion part of the report, adjustments on aesthetics and format of the report.
+
 # Reference
 
 1.  NVIDIA's advancement: <https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2023>
